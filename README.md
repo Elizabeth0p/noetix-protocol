@@ -5,15 +5,15 @@ Noetix is a deep-tech framework designed to redefine how data is transmitted acr
 
 ---
 
-## 🚀 The Vision
+ The Vision
 In the era of 6G and ubiquitous AI, classical compression (H.265, JPEG) has reached its physical limits. Noetix leverages **Deep Joint Source-Channel Coding (Deep JSCC)** to transmit "semantic vectors" instead of raw pixels, allowing high-fidelity telepresence and industrial control even in ultra-low bandwidth environments (2G/Satellite).
 
-## 🛠 Tech Stack (Phase 1)
-* **Neural Engine:** Python & PyTorch (Autoencoders, GANs).
-* **High-Performance Transport:** C++ (UDP Sockets, Low-latency optimization).
-* **Research Focus:** Joint Source-Channel Coding & Semantic Gap Reduction.
+  Tech Stack (Phase 1)
+Neural Engine:Python & PyTorch (Autoencoders, GANs).
+High-Performance Transport: C++ (UDP Sockets, Low-latency optimization).
+Research Focus: Joint Source-Channel Coding & Semantic Gap Reduction.
 
-## 📈 Roadmap: The 120-Day Plan
+##  Roadmap: The 120-Day Plan
 
 ### Month 1: Theory & Core Research (Current)
 * [ ] Breaking the Shannon Limit: Deep JSCC literature review.
@@ -36,7 +36,7 @@ In the era of 6G and ubiquitous AI, classical compression (H.265, JPEG) has reac
 
 ---
 
-## 🔬 Scientific Foundation
+##  Scientific Foundation
 Noetix is built upon the principle that the goal of communication is not the exact replication of symbols, but the **successful delivery of meaning**.
 
 > *"The fundamental problem of communication is that of reproducing at one point either exactly or approximately a message selected at another point."* — Claude Shannon (1948). 
